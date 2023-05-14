@@ -1,0 +1,9 @@
+# Screenshot
+![Screenshot (150)](https://github.com/omar201999/django_task_2_Sprints/assets/46471716/9f099e94-116c-4b5a-80ea-07dc17785d44)
+![Screenshot (151)](https://github.com/omar201999/django_task_2_Sprints/assets/46471716/f0b83ad5-c204-4369-8b69-d91cb708ee56)
+![Screenshot (152)](https://github.com/omar201999/django_task_2_Sprints/assets/46471716/95c8dcbc-fdaf-4c3b-be6f-58b5e7b1dd4f)
+![Screenshot (153)](https://github.com/omar201999/django_task_2_Sprints/assets/46471716/2457c2e4-ea64-40d4-90b7-f86b3be35294)
+![Screenshot (154)](https://github.com/omar201999/django_task_2_Sprints/assets/46471716/950694cb-7f8e-468b-9d23-46d4d8e5a4ae)
+![Screenshot (155)](https://github.com/omar201999/django_task_2_Sprints/assets/46471716/b1eec7e4-ee36-4b10-b985-f884af4f3654)
+![Screenshot (156)](https://github.com/omar201999/django_task_2_Sprints/assets/46471716/495b290f-4efa-4733-89f5-8e850b425def)
+![Screenshot (157)](https://github.com/omar201999/django_task_2_Sprints/assets/46471716/e4d4c656-8897-460d-ab6b-5458342bcb3d)
